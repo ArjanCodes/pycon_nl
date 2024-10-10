@@ -2,9 +2,7 @@
 
 ## Arjan Egges (ArjanCodes)
 
-YouTube: https://youtube.com/@arjancodes
-
-LinkedIn: https://linkedin.com/in/arjanegges
+YouTube: https://youtube.com/@arjancodes | LinkedIn: https://linkedin.com/in/arjanegges
 
 Code: https://github.com/arjancodes/pycon_nl
 
